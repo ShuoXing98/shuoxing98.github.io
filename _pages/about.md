@@ -23,7 +23,8 @@ I am an incoming Ph.D candidate at [Texas A&M University](https://www.tamu.edu/)
 
 ## News
 
-* **[March 8, 2023]** Will join Texas A&M University as a Ph.D student in Comupter Science in fall.
+* **[May 8, 2023]** I am open to cooperation and review opportunities. Please feel free to drop me an email if you are interested.
+* **[March 8, 2023]** I will join Texas A&M University as a Ph.D student in Comupter Science in fall.
 * **[July 4, 2022]** Started as a research intern at HKUST, Statistics and Machine Learning Research Group. 
 
 ## Education

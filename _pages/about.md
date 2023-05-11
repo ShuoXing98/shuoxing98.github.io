@@ -54,9 +54,9 @@ to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Submission-red"></a> LIN Yong, Lu Tan, Hanze Dong, <u>Shuo Xing</u>, Shizhe Diao, WEIZHONG ZHANG, Tong Zhang, &quot;**Pretrained Feature Protection for Robust Out of Distribution Generalization**&quot;. *Submitted*.
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Manuscript-red"></a> Shizhe Diao*, Rui Pan*, <u>Shuo Xing</u>*, Tong Zhang, &quot;**Evolutionary Prompt with Automatic Black-Box Learning**&quot;. *Manuscript*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Manuscript-red"></a> Shizhe Diao<sup>&diams;</sup>, Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Tong Zhang, &quot;**Evolutionary Prompt with Automatic Black-Box Learning**&quot;. *Manuscript*.
 
-<p>Note: * indicates equal contribution. &spades; indicates the corresponding author.</p>
+<p>Note: &diams; indicates equal contribution. &spades; indicates the corresponding author.</p>
 
 
 

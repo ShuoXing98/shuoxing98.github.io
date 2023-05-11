@@ -15,7 +15,7 @@ I am an incoming Ph.D candidate at [Texas A&M University](https://www.tamu.edu/)
 ## Research Interests
 
 * **Submodular Optimization**
-* **Natrual Language Processing**
+* **Natural Language Processing**
 * **Approximation Theory**
 * **Machine Learning**
 

@@ -78,5 +78,5 @@ to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 
 <div align="middle">
   <a href="https://www.nankai.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://shuoxing98.github.io/images/nku_logo.png" /></a>
-  <a href="https://www.tamu.edu/" target="_blank"><img align="middle" style="max-width: 160px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://shuoxing98.github.io/images/TAM-PrimaryMarkB.png" /></a>
+  <a href="https://www.tamu.edu/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://shuoxing98.github.io/images/TAM-PrimaryMarkB.png" /></a>
 </div>

@@ -36,7 +36,7 @@ I am an incoming Ph.D candidate at [Texas A&M University](https://www.tamu.edu/)
 
 ## Publications
 
-### Peer-reviewed Conference and Journal
+### Peer-reviewed Conference & Journal
 
 <a href="https://www.mdpi.com/2075-1680/12/4/389" target="_blank"><img src="https://img.shields.io/badge/Axioms-2023-blue?style=flat-square"></a> Chunfang Shao, Xiujie Wei, Peixin Ye, <u>Shuo Xing</u><sup>&spades;</sup> &quot;**Efficiency of Orthogonal Matching Pursuit for Group Sparse Recovery**&quot;. In *Axioms*. 
 

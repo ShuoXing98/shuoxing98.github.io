@@ -50,7 +50,7 @@ I am an incoming Ph.D candidate at [Texas A&M University](https://www.tamu.edu/)
 
 ### Manuscript & Submission
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Manuscript-red"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao<sup>&diams;</sup>, Tong Zhang, &quot;**EvoPL: General Prompt Optimization via Metaheuristics**&quot;. *Manuscript*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Manuscript-red"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao<sup>&diams;</sup>, Xiang Liu, Tong Zhang, &quot;**EvoPL: General Prompt Optimization via Metaheuristics**&quot;. *Manuscript*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Manuscript-red"></a> Wenhui Zhang, Peixin Ye<sup>&spades;</sup>, <u>Shuo Xing</u>, Xinghong Zhang, &quot;**δ-Rescaled Pure Super Greedy Algorithm with respect
 to Symmetric Riesz Dictionary**&quot;. *Manuscript*.

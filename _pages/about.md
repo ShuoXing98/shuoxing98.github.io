@@ -48,7 +48,7 @@ I am an incoming Ph.D candidate at [Texas A&M University](https://www.tamu.edu/)
 <a href="https://www.mdpi.com/2075-1680/11/5/186" target="_blank"><img src="https://img.shields.io/badge/Axioms-2022-blue?style=flat-square"></a> Chunfang Shao, Jincai Chang, Peixin Ye, Wenhui Zhang, <u>Shuo Xing</u>, &quot;**Almost Optimality of the Orthogonal Super Greedy Algorithm for $μ$-Coherent Dictionaries**&quot;. In *Axioms*.
 
 
-### Manuscript & Submission
+<!-- ### Manuscript & Submission
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Manuscript-red"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao<sup>&diams;</sup>, Xiang Liu, Tong Zhang, &quot;**EvoPL: General Prompt Optimization via Metaheuristics**&quot;. *Manuscript*.
 
@@ -56,7 +56,7 @@ I am an incoming Ph.D candidate at [Texas A&M University](https://www.tamu.edu/)
 to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Submission-red"></a> LIN Yong, Lu Tan, Hanze Dong, <u>Shuo Xing</u>, Shizhe Diao, WEIZHONG ZHANG, Tong Zhang, &quot;**Pretrained Feature Protection for Robust Out of Distribution Generalization**&quot;. *Submission*.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Submission-red"></a> LIN Yong, Lu Tan, Hanze Dong, <u>Shuo Xing</u>, Shizhe Diao, WEIZHONG ZHANG, Tong Zhang, &quot;**Pretrained Feature Protection for Robust Out of Distribution Generalization**&quot;. *Submission*. -->
 
 <p>Note: &diams; indicates equal contribution. &spades; indicates the corresponding author.</p>
 

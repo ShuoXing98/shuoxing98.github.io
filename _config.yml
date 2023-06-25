@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shuo Xing"
 title_separator          : "-"
 name                     : &name "Shuo Xing"
-description              : &description "MS Student"
+description              : &description "PhD Student"
 url                      : https://shuoxing98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuoxing98/shuoxing98.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shuo Xing"
   avatar           : "profile.jpg"
-  bio              : "MS Student @ Nankai University"
+  bio              : "PhD Student @ Texas A&M University"
   location         : "Tianjin, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

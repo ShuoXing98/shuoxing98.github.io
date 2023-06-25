@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming Ph.D candidate at [Texas A&M University](https://www.tamu.edu/) in fall 2023, supervised by Professor [Victoria Crawford](https://engineering.tamu.edu/cse/profiles/crawford-victoria.html). I am now doing my Master of Science degree at [Nankai University](https://www.nankai.edu.cn/), advised by Professor [Peixin Ye](http://en.math.nankai.edu.cn/2015/1112/c4059a32170/page.htm). Previously, I received my Bachelor of Science degree at [Ningxia University](http://www.nxu.edu.cn/) in 2020. Currently, I am also a research intern of the [Statistics and Machine Learning Research Group](https://statml.hkust.edu.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/).
+I am an incoming Ph.D candidate at [Texas A&M University](https://www.tamu.edu/) in fall 2023, supervised by Professor [Victoria Crawford](https://engineering.tamu.edu/cse/profiles/crawford-victoria.html). I just received my Master of Science degree from [Nankai University](https://www.nankai.edu.cn/), advised by Professor [Peixin Ye](http://en.math.nankai.edu.cn/2015/1112/c4059a32170/page.htm). Previously, I received my Bachelor of Science degree at [Ningxia University](http://www.nxu.edu.cn/) in 2020. Currently, I am also a research intern of the [Statistics and Machine Learning Research Group](https://statml.hkust.edu.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/).
 
 <!-- I am open to research interns, cooperation and review opportunities. Please feel free to drop me an email if you are interested.
 {: .notice--info} -->
@@ -72,6 +72,7 @@ to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 * **First-Class Scholarship (Title Sponsor: HUAWEI)**, Nankai University, Oct. 2022
 * **The 3rd Prize in the 18th "HUAWEI" Cup Post-Graduate Mathematical Contest in Modeling**, Dec.2021
 * **Outstanding Graduation Thesis**, Jun.2020
+* **Outstanding Graduates**, Ningxia University, Jun. 2020
 * **Honorable Mention in the MCM/ICM**, 2018 & 2019>
 * **National Encouragement Scholarship**, Oct. 2018
 * **First-Class Scholarship**, Ningxia University, 2017, 2018, 2019

@@ -26,7 +26,7 @@ I am the first year PhD student in Computer Science at [Texas A&M University](ht
 * **[May 23, 2023]** Successfully defended my Master's thesis titled "The Applications of Greedy Algorithms Based on Redundant Systems".
 * **[May 8, 2023]** I am open to cooperation and review opportunities. Please feel free to drop me an email if you are interested.
 * **[March 8, 2023]** I will join Texas A&M University as a Ph.D student in Comupter Science in Fall.
-* **[July 4, 2022]** Started as a research intern at HKUST, Statistics and Machine Learning Research Group. 
+* **[July 4, 2022]** Started working as a research intern in the Statistics and Machine Learning Research Group at HKUST. 
 
 ## Education
 

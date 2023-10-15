@@ -74,7 +74,7 @@ to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 * **The 3rd Prize in the 18th "HUAWEI" Cup Post-Graduate Mathematical Contest in Modeling**, Dec.2021
 * **Outstanding Graduation Thesis**, Ningxia University, Jun.2020
 * **Outstanding Graduates**, Ningxia University, Jun. 2020
-* **Honorable Mention in the MCM/ICM**, 2018 & 2019>
+* **Honorable Mention in the MCM/ICM**, 2018 & 2019
 * **National Encouragement Scholarship**, Oct. 2018
 * **First-Class Scholarship**, Ningxia University, 2017, 2018, 2019
 

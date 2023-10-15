@@ -68,10 +68,11 @@ to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 
 ## Awards & Honors
 
+* **Outstanding Graduation Thesis**, Nankai University, Oct.2023
 * **Outstanding Graduates**, Nankai University, Apr. 2023
 * **First-Class Scholarship (Title Sponsor: HUAWEI)**, Nankai University, Oct. 2022
 * **The 3rd Prize in the 18th "HUAWEI" Cup Post-Graduate Mathematical Contest in Modeling**, Dec.2021
-* **Outstanding Graduation Thesis**, Jun.2020
+* **Outstanding Graduation Thesis**, Ningxia University, Jun.2020
 * **Outstanding Graduates**, Ningxia University, Jun. 2020
 * **Honorable Mention in the MCM/ICM**, 2018 & 2019>
 * **National Encouragement Scholarship**, Oct. 2018

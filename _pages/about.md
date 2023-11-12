@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am the first year PhD student in Computer Science at [Texas A&M University](https://www.tamu.edu/), supervised by Professor [Victoria Crawford](https://engineering.tamu.edu/cse/profiles/crawford-victoria.html). I just received my Master of Science degree in Applied Mathematics from [Nankai University](https://www.nankai.edu.cn/) under the supervision of Professor [Peixin Ye](http://en.math.nankai.edu.cn/2015/1112/c4059a32170/page.htm). Previously, I received my Bachelor of Science degree at [Ningxia University](http://www.nxu.edu.cn/) in 2020. Currently, I am also a research intern of the [Statistics and Machine Learning Research Group](https://statml.hkust.edu.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/).
+I am a first year PhD student in Computer Science at [Texas A&M University](https://www.tamu.edu/), supervised by Professor [Victoria Crawford](https://engineering.tamu.edu/cse/profiles/crawford-victoria.html). I just received my Master of Science degree in Applied Mathematics from [Nankai University](https://www.nankai.edu.cn/) under the supervision of Professor [Peixin Ye](http://en.math.nankai.edu.cn/2015/1112/c4059a32170/page.htm). Previously, I received my Bachelor of Science degree at [Ningxia University](http://www.nxu.edu.cn/) in 2020. Currently, I am also a research intern of the [Statistics and Machine Learning Research Group](https://statml.hkust.edu.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/).
 
 BTW, thanks for the photo taken by my best friend **Lin Feng**!
 

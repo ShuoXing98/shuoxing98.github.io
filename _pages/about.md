@@ -41,13 +41,13 @@ BTW, thanks for the photo taken by my best friend **Lin Feng**!
 
 ### Peer-reviewed Conference & Journal
 
-<a href="https://www.mdpi.com/2075-1680/12/4/389" target="_blank"><img src="https://img.shields.io/badge/Axioms-2023-blue?style=flat-square"></a> Chunfang Shao, Xiujie Wei, Peixin Ye, and <u>Shuo Xing</u><sup>&spades;</sup> &quot;. **Efficiency of Orthogonal Matching Pursuit for Group Sparse Recovery**&quot;. In *Axioms*. 
+<a href="https://www.mdpi.com/2075-1680/12/4/389" target="_blank"><img src="https://img.shields.io/badge/Axioms-2023-blue?style=flat-square"></a> Chunfang Shao, Xiujie Wei, Peixin Ye, and <u>Shuo Xing</u><sup>&spades;</sup>.  &quot;**Efficiency of Orthogonal Matching Pursuit for Group Sparse Recovery**&quot;. In *Axioms*. 
 
-<a href="https://www.worldscientific.com/doi/10.1142/S0219691322500485" target="_blank"><img src="https://img.shields.io/badge/IJWMIP-2022-blue?style=flat-square"></a> Wenhui Zhang, Peixin Ye, and <u>Shuo Xing</u> &quot;. **Optimality of the Rescaled Pure Greedy Learning Algorithm**&quot;. In *International Journal of Wavelets, Multiresolution and Information Processing*. 
+<a href="https://www.worldscientific.com/doi/10.1142/S0219691322500485" target="_blank"><img src="https://img.shields.io/badge/IJWMIP-2022-blue?style=flat-square"></a> Wenhui Zhang, Peixin Ye, and <u>Shuo Xing</u>. &quot;**Optimality of the Rescaled Pure Greedy Learning Algorithm**&quot;. In *International Journal of Wavelets, Multiresolution and Information Processing*. 
 
-<a href="https://www.mdpi.com/2075-1680/11/9/437" target="_blank"><img src="https://img.shields.io/badge/Axioms-2022-blue?style=flat-square"></a> Wenhui Zhang, Peixin Ye, <u>Shuo Xing</u>, and Xu Xu &quot;. **Optimality of the Approximation and Learning by the Rescaled Pure Super Greedy Algorithms**&quot;. In *Axioms*.
+<a href="https://www.mdpi.com/2075-1680/11/9/437" target="_blank"><img src="https://img.shields.io/badge/Axioms-2022-blue?style=flat-square"></a> Wenhui Zhang, Peixin Ye, <u>Shuo Xing</u>, and Xu Xu. &quot;**Optimality of the Approximation and Learning by the Rescaled Pure Super Greedy Algorithms**&quot;. In *Axioms*.
 
-<a href="https://www.mdpi.com/2075-1680/11/5/186" target="_blank"><img src="https://img.shields.io/badge/Axioms-2022-blue?style=flat-square"></a> Chunfang Shao, Jincai Chang, Peixin Ye, Wenhui Zhang, and <u>Shuo Xing</u> &quot;. **Almost Optimality of the Orthogonal Super Greedy Algorithm for $μ$-Coherent Dictionaries**&quot;. In *Axioms*.
+<a href="https://www.mdpi.com/2075-1680/11/5/186" target="_blank"><img src="https://img.shields.io/badge/Axioms-2022-blue?style=flat-square"></a> Chunfang Shao, Jincai Chang, Peixin Ye, Wenhui Zhang, and <u>Shuo Xing</u>. &quot;**Almost Optimality of the Orthogonal Super Greedy Algorithm for $μ$-Coherent Dictionaries**&quot;. In *Axioms*.
 
 
 <!-- ### Manuscript & Submission

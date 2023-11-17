@@ -84,9 +84,13 @@ to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 * **National Encouragement Scholarship**, Oct. 2018
 * **First-Class Scholarship**, Ningxia University, 2017, 2018, 2019
 
+## Academic Service
+
+* Journal Reviewer: Journal of Combinatorial Optimization (JOCO)
+
 
 
 <div align="middle">
-  <a href="https://www.nankai.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://shuoxing98.github.io/images/nku_logo.png" /></a>
+<!--   <a href="https://www.nankai.edu.cn/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-right: 40px; margin-top: 10px" src="https://shuoxing98.github.io/images/nku_logo.png" /></a> -->
   <a href="https://www.tamu.edu/" target="_blank"><img align="middle" style="max-width: 300px; width: 100%; margin-left: 20px; margin-top: 10px" src="https://shuoxing98.github.io/images/TAM-PrimaryMarkB.png" /></a>
 </div>

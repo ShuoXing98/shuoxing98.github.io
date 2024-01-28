@@ -32,7 +32,7 @@ BTW, thanks for the photo taken by my best friend **Lin Feng**!
 
 ## Education
 
-* **Ph.D** in Computer Science, Texas A&M University, 2023 -- 2028 (expected)
+* **Ph.D.** in Computer Science, Texas A&M University, 2023 -- 2028 (expected)
 * **M.S.** in Applied Mathematics, Nankai University, 2020 -- 2023
 * **B.S.** in Mathematics, Ningxia University, 2016 -- 2020
 

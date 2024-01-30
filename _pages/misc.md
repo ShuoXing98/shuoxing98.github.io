@@ -15,7 +15,7 @@ This page is for my Homework 1 of the course [CSCE 656: Computers and New Media]
 
 * This courese is one of the required courses (Software track) for PhD students.
 
-* I am very into computer games, so I want to how these how these things attract me.
+* I am very into computer games, so I want to how these things attract me.
 
 ## Media I frequently use
 

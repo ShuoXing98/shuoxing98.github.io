@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-* This page is of my HW 1 of courese CSCE 656: Computers and New Media
+* **[December 2, 2020]**  got accepted to the 35th AAAI Conference on Artificial Intelligence (AAAI 2021). Congratulations to all collaborators!

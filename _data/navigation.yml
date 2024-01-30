@@ -10,7 +10,7 @@ main:
   #   url: /talks/    
 
   - title: "Misc"
-    url: /misc/
+    url: /_pages/mics.md
 
   # - title: "Teaching"
   #   url: /teaching/    

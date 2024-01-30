@@ -3,14 +3,14 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  # - title: "News"
-  #   url: /news/  
+  - title: "News"
+    url: /news/  
 
   # - title: "Talks"
   #   url: /talks/    
 
   - title: "Misc"
-    url: /_pages/mics.md
+    url: /misc/
 
   # - title: "Teaching"
   #   url: /teaching/    

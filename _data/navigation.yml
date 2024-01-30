@@ -3,14 +3,11 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "News"
-    url: /news/  
+  # - title: "News"
+  #   url: /news/  
 
   # - title: "Talks"
   #   url: /talks/    
-
-  - title: "Misc"
-    url: /misc/
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -20,6 +17,9 @@ main:
     
   - title: "CV"
     url: /files/CV_Xing.pdf
+
+  - title: "Misc"
+    url: /misc/
 
   # - title: "CV (English)"
   #   url: /files/SitengHuang-CV-en.pdf

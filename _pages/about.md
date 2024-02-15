@@ -51,9 +51,9 @@ I am a first year PhD student in Computer Science at [Texas A&M University](http
 
 ### Preprints
 
-<a href="https://arxiv.org/abs/2312.00155" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.00155-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, and Victoria G. Crawford. &quot;**A Threshold Greedy Algorithm for Noisy Submodular Maximization**&quot;. In *arXiv*.
+<a href="https://arxiv.org/abs/2312.00155" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.00155-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, and Victoria G. Crawford. &quot;**A Threshold Greedy Algorithm for Noisy Submodular Maximization**&quot;. In *arXiv*. <span style="color:red"> **[New]** </span>
 
-<a href="https://arxiv.org/abs/2311.08364" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.08364-red?style=flat-square"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao, Xiang Liu, Kashun Shum, Jipeng Zhang, and Tong Zhang. &quot;**Plum: Prompt Learning using Metaheuristic**&quot;. In *arXiv*.
+<a href="https://arxiv.org/abs/2311.08364" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.08364-red?style=flat-square"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao, Xiang Liu, Kashun Shum, Jipeng Zhang, and Tong Zhang. &quot;**Plum: Prompt Learning using Metaheuristic**&quot;. In *arXiv*. <span style="color:red"> **[New]** </span>
 
 
 <!-- ### Manuscript & Submission

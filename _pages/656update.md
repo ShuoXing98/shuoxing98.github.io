@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "656update"
+title: "HW2 of CSCE 656"
 permalink: /656update/
 author_profile: true
 ---
 
 {% include base_path %}
 
-This page is for my Homework 1 of the course [CSCE 656: Computers and New Media](https://people.engr.tamu.edu/shipman/courses/cnm/home.html) instructed by Professor [Frank Shipman](https://people.engr.tamu.edu/shipman/index.html) at Texas A&M University.
+This page is for my Homework 2 of the course [CSCE 656: Computers and New Media](https://people.engr.tamu.edu/shipman/courses/cnm/home.html) instructed by Professor [Frank Shipman](https://people.engr.tamu.edu/shipman/index.html) at Texas A&M University.
 
 ## Why I am in this class
 

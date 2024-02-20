@@ -40,4 +40,4 @@ This page is for my Homework 1 of the course [CSCE 656: Computers and New Media]
 With the increasing complexity and graphical demands of modern video games, high-standard hardware, especially GPUs, has become essential for the gaming experience. 
 
 ## Homework 2
-The page of homework 2 can be found [here](656update.md)
+The page of homework 2 can be found [here](656update.md).

@@ -16,10 +16,10 @@ main:
   #   url: /portfolio/
     
   - title: "CV"
-    url: /files/CV_Xing.pdf
+    url: /files/CV_Shuo.pdf
 
-  - title: "Misc"
-    url: /misc/
+  # - title: "Misc"
+  #   url: /misc/
 
   # - title: "CV (English)"
   #   url: /files/SitengHuang-CV-en.pdf

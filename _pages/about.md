@@ -71,7 +71,7 @@ to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 
 ## Professional Experience
 
-* July 2022 - Present. *Research Intern*. <a href="https://statml.hkust.edu.hk/" target="_blank">Statistics and Machine Learning Research Group, HKUST</a>, Hong Kong SAR.
+* July 2022 - Aug 2023. *Research Intern*. <a href="https://statml.hkust.edu.hk/" target="_blank">Statistics and Machine Learning Research Group, HKUST</a>, Hong Kong SAR.
 
 ## Awards & Honors
 

@@ -25,6 +25,7 @@ I am a first-year PhD student in Computer Science at [Texas A&M University](http
 
 ## News
 
+* **[May 16, 2024]** Our Plum paper has been accepted to ACL 2024 Findings. Thanks to all the collaborators. 
 * **[May 23, 2023]** Successfully defended my Master's thesis titled "The Applications of Greedy Algorithms Based on Redundant Systems".
 * **[March 8, 2023]** I will join Texas A&M University as a PhD student in Computer Science in the Fall.
 * **[July 4, 2022]** Started working as a research intern in the Statistics and Machine Learning Research Group at HKUST. 

@@ -41,6 +41,8 @@ I am a first-year PhD student in Computer Science at [Texas A&M University](http
 
 ### Peer-reviewed Conference & Journal
 
+<a href="https://arxiv.org/abs/2311.08364" target="_blank"><img src="https://img.shields.io/badge/ACL-2024-blue?style=flat-square"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao<sup>&diams;</sup>, Wenhe Sun, Xiang Liu, Kashun Shum, Jipeng Zhang, Renjie Pi, and Tong Zhang. &quot;**Plum: Prompt Learning using Metaheuristic**&quot;. In *ACL 2024 Findings*. <span style="color:red"> **[New]** </span>
+
 <a href="https://www.mdpi.com/2075-1680/12/4/389" target="_blank"><img src="https://img.shields.io/badge/Axioms-2023-blue?style=flat-square"></a> Chunfang Shao, Xiujie Wei, Peixin Ye, and <u>Shuo Xing</u><sup>&spades;</sup>.  &quot;**Efficiency of Orthogonal Matching Pursuit for Group Sparse Recovery**&quot;. In *Axioms*. 
 
 <a href="https://www.worldscientific.com/doi/10.1142/S0219691322500485" target="_blank"><img src="https://img.shields.io/badge/IJWMIP-2022-blue?style=flat-square"></a> Wenhui Zhang, Peixin Ye, and <u>Shuo Xing</u>. &quot;**Optimality of the Rescaled Pure Greedy Learning Algorithm**&quot;. In *International Journal of Wavelets, Multiresolution and Information Processing*. 
@@ -52,8 +54,6 @@ I am a first-year PhD student in Computer Science at [Texas A&M University](http
 ### Preprints
 
 <a href="https://arxiv.org/abs/2312.00155" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.00155-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, and Victoria G. Crawford. &quot;**A Threshold Greedy Algorithm for Noisy Submodular Maximization**&quot;. In *arXiv*. <span style="color:red"> **[New]** </span>
-
-<a href="https://arxiv.org/abs/2311.08364" target="_blank"><img src="https://img.shields.io/badge/arXiv-2311.08364-red?style=flat-square"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao<sup>&diams;</sup>, Wenhe Sun, Xiang Liu, Kashun Shum, Renjie Pi, Jipeng Zhang, Tong Zhang. &quot;**Plum: Prompt Learning using Metaheuristic**&quot;. In *arXiv*. <span style="color:red"> **[New]** </span>
 
 
 <!-- ### Manuscript & Submission

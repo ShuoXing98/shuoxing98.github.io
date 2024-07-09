@@ -54,7 +54,9 @@ I am a first-year PhD student in Computer Science at [Texas A&M University](http
 
 ### Preprints
 
-<a href="https://arxiv.org/abs/2312.00155" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.00155-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, and Victoria G. Crawford. &quot;**A Threshold Greedy Algorithm for Noisy Submodular Maximization**&quot;. In *arXiv*. <span style="color:red"> **[New]** </span>
+<a href="https://arxiv.org/abs/2407.04804" target="_blank"><img src="https://img.shields.io/badge/arXiv-2407.04804-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, Samson Zhou, and Victoria G. Crawford. &quot;**Fair Submodular Cover**&quot;. In *arXiv*. <span style="color:red"> **[New]** </span>
+
+<a href="https://arxiv.org/abs/2312.00155" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.00155-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, and Victoria G. Crawford. &quot;**A Threshold Greedy Algorithm for Noisy Submodular Maximization**&quot;. In *arXiv*.
 
 
 <!-- ### Manuscript & Submission

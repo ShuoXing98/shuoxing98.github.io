@@ -25,6 +25,7 @@ I am a first-year PhD student in Computer Science at [Texas A&M University](http
 
 ## News
 
+* **[August 12, 2024]** We won a [Silver Medal](https://www.kaggle.com/certification/competitions/shuoxing/lmsys-chatbot-arena) for placing 22nd out of 1688 teams in [LMSYS - Chatbot Arena Human Preference Predictions](https://www.kaggle.com/competitions/lmsys-chatbot-arena). Thanks to my amazing collaborators!
 * **[May 16, 2024]** Our [Plum](https://arxiv.org/abs/2311.08364) paper has been accepted to ACL 2024 Findings. Thanks to all the collaborators. 
 * **[May 23, 2023]** Successfully defended my Master's thesis titled "The Applications of Greedy Algorithms Based on Redundant Systems".
 * **[March 8, 2023]** I will join Texas A&M University as a PhD student in Computer Science in the Fall.

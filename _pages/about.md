@@ -26,7 +26,7 @@ I am a first-year PhD student in Computer Science at [Texas A&M University](http
 ## News
 
 * **[August 12, 2024]** We won a [Silver Medal](https://www.kaggle.com/certification/competitions/shuoxing/lmsys-chatbot-arena) for placing 22nd out of 1688 teams in [LMSYS - Chatbot Arena Human Preference Predictions](https://www.kaggle.com/competitions/lmsys-chatbot-arena). Thanks to my amazing collaborators!
-* **[May 16, 2024]** Our [Plum](https://arxiv.org/abs/2311.08364) paper has been accepted to ACL 2024 Findings. Thanks to all the collaborators. 
+* **[May 16, 2024]** Our [Plum](https://aclanthology.org/2024.findings-acl.129/) paper has been accepted to ACL 2024 Findings. Thanks to all the collaborators. 
 * **[May 23, 2023]** Successfully defended my Master's thesis titled "The Applications of Greedy Algorithms Based on Redundant Systems".
 * **[March 8, 2023]** I will join Texas A&M University as a PhD student in Computer Science in the Fall.
 * **[July 4, 2022]** Started working as a research intern in the Statistics and Machine Learning Research Group at HKUST. 
@@ -42,7 +42,7 @@ I am a first-year PhD student in Computer Science at [Texas A&M University](http
 
 ### Peer-reviewed Conference & Journal
 
-<a href="https://arxiv.org/abs/2311.08364" target="_blank"><img src="https://img.shields.io/badge/ACL-2024-blue?style=flat-square"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao<sup>&diams;</sup>, Wenhe Sun, Xiang Liu, Kashun Shum, Jipeng Zhang, Renjie Pi, and Tong Zhang. &quot;**Plum: Prompt Learning using Metaheuristic**&quot;. In *ACL 2024 Findings*. <span style="color:red"> <a href="https://github.com/research4pan/Plum" target="_blank"><img src="https://img.shields.io/github/stars/research4pan/Plum"></a>
+<a href="https://aclanthology.org/2024.findings-acl.129/" target="_blank"><img src="https://img.shields.io/badge/ACL-2024-blue?style=flat-square"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao<sup>&diams;</sup>, Wenhe Sun, Xiang Liu, Kashun Shum, Jipeng Zhang, Renjie Pi, and Tong Zhang. &quot;**Plum: Prompt Learning using Metaheuristic**&quot;. In *ACL 2024 Findings*. <span style="color:red"> <a href="https://github.com/research4pan/Plum" target="_blank"><img src="https://img.shields.io/github/stars/research4pan/Plum"></a>
 **[New]** </span>
 
 <a href="https://www.mdpi.com/2075-1680/12/4/389" target="_blank"><img src="https://img.shields.io/badge/Axioms-2023-blue?style=flat-square"></a> Chunfang Shao, Xiujie Wei, Peixin Ye, and <u>Shuo Xing</u><sup>&spades;</sup>.  &quot;**Efficiency of Orthogonal Matching Pursuit for Group Sparse Recovery**&quot;. In *Axioms*. 

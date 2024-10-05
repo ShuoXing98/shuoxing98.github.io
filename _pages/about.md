@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student in Computer Science at [Texas A&M University](https://www.tamu.edu/), supervised by Prof. [Zhengzhong Tu](https://vztu.github.io/). I just received my Master of Science degree in Applied Mathematics from [Nankai University](https://en.nankai.edu.cn/) under the supervision of Professor [Peixin Ye](http://en.math.nankai.edu.cn/2015/1112/c4059a32170/page.htm). Previously, I received my Bachelor of Science degree at [Ningxia University](http://www.nxu.edu.cn/) in 2020. From 2022 to 2023, I was a research intern at the [Statistics and Machine Learning Research Group](https://statml.hkust.edu.hk/), the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). I am fortunate to have been working closely with Dr. [Shizhe Diao](https://shizhediao.github.io/) (NVIDIA Research) and [Rui Pan](https://github.com/research4pan) (HKUST).
+I am a second-year PhD student at the [TACO Lab](https://taco-group.github.io/) in Computer Science at [Texas A&M University](https://www.tamu.edu/), supervised by Prof. [Zhengzhong Tu](https://vztu.github.io/). I received my Master of Science degree in Applied Mathematics from [Nankai University](https://en.nankai.edu.cn/) under the supervision of Professor [Peixin Ye](http://en.math.nankai.edu.cn/2015/1112/c4059a32170/page.htm) in 2023. Previously, I received my Bachelor of Science degree at [Ningxia University](http://www.nxu.edu.cn/) in 2020. From 2022 to 2023, I was a research intern at the [Statistics and Machine Learning Research Group](https://statml.hkust.edu.hk/), the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). I am fortunate to have been working closely with Dr. [Shizhe Diao](https://shizhediao.github.io/) (NVIDIA Research).
 
 <!-- BTW, thanks for the photo taken by my best friend **Lin Feng**! -->
 
@@ -17,8 +17,8 @@ I am a first-year PhD student in Computer Science at [Texas A&M University](http
 ## Research Interests
 
 <!-- * **Submodular Optimization** -->
+* **Multimodal Large Language Models**
 * **Natural Language Processing**
-* **Approximation Theory**
 * **Machine Learning**
 
 
@@ -33,17 +33,20 @@ I am a first-year PhD student in Computer Science at [Texas A&M University](http
 
 ## Education
 
-* **Ph.D.** in Computer Science, Texas A&M University, 2023 -- 2028 (expected)
-* **M.S.** in Applied Mathematics, Nankai University, 2020 -- 2023
-* **B.S.** in Mathematics, Ningxia University, 2016 -- 2020
+* **PhD student** in Computer Science, Texas A&M University, 2023 -- present
+* **MS** in Applied Mathematics, Nankai University, 2020 -- 2023
+* **BS** in Mathematics, Ningxia University, 2016 -- 2020
 
 
 ## Publications
 
-### Peer-reviewed Conference & Journal
+<!-- ### Peer-reviewed Conference & Journal -->
 
-<a href="https://aclanthology.org/2024.findings-acl.129/" target="_blank"><img src="https://img.shields.io/badge/ACL-2024-blue?style=flat-square"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao<sup>&diams;</sup>, Wenhe Sun, Xiang Liu, Kashun Shum, Jipeng Zhang, Renjie Pi, and Tong Zhang. &quot;**Plum: Prompt Learning using Metaheuristic**&quot;. In *ACL 2024 Findings*. <span style="color:red"> <a href="https://github.com/research4pan/Plum" target="_blank"><img src="https://img.shields.io/github/stars/research4pan/Plum"></a>
-**[New]** </span>
+<a href="https://arxiv.org/abs/2407.04804" target="_blank"><img src="https://img.shields.io/badge/arXiv-2407.04804-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, Samson Zhou, and Victoria G. Crawford. &quot;**Fair Submodular Cover**&quot;. In *arXiv*.
+
+<a href="https://aclanthology.org/2024.findings-acl.129/" target="_blank"><img src="https://img.shields.io/badge/ACL-2024-blue?style=flat-square"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao<sup>&diams;</sup>, Wenhe Sun, Xiang Liu, Kashun Shum, Jipeng Zhang, Renjie Pi, and Tong Zhang. &quot;**Plum: Prompt Learning using Metaheuristic**&quot;. In *ACL 2024 Findings*. <a href="https://github.com/research4pan/Plum" target="_blank"><img src="https://img.shields.io/github/stars/research4pan/Plum"></a>
+
+<a href="https://arxiv.org/abs/2312.00155" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.00155-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, and Victoria G. Crawford. &quot;**A Threshold Greedy Algorithm for Noisy Submodular Maximization**&quot;. In *arXiv*.
 
 <a href="https://www.mdpi.com/2075-1680/12/4/389" target="_blank"><img src="https://img.shields.io/badge/Axioms-2023-blue?style=flat-square"></a> Chunfang Shao, Xiujie Wei, Peixin Ye, and <u>Shuo Xing</u><sup>&spades;</sup>.  &quot;**Efficiency of Orthogonal Matching Pursuit for Group Sparse Recovery**&quot;. In *Axioms*. 
 
@@ -53,11 +56,11 @@ I am a first-year PhD student in Computer Science at [Texas A&M University](http
 
 <a href="https://www.mdpi.com/2075-1680/11/5/186" target="_blank"><img src="https://img.shields.io/badge/Axioms-2022-blue?style=flat-square"></a> Chunfang Shao, Jincai Chang, Peixin Ye, Wenhui Zhang, and <u>Shuo Xing</u>. &quot;**Almost Optimality of the Orthogonal Super Greedy Algorithm for $μ$-Coherent Dictionaries**&quot;. In *Axioms*.
 
-### Preprints
+<!-- ### Preprints
 
 <a href="https://arxiv.org/abs/2407.04804" target="_blank"><img src="https://img.shields.io/badge/arXiv-2407.04804-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, Samson Zhou, and Victoria G. Crawford. &quot;**Fair Submodular Cover**&quot;. In *arXiv*. <span style="color:red"> **[New]** </span>
 
-<a href="https://arxiv.org/abs/2312.00155" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.00155-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, and Victoria G. Crawford. &quot;**A Threshold Greedy Algorithm for Noisy Submodular Maximization**&quot;. In *arXiv*.
+<a href="https://arxiv.org/abs/2312.00155" target="_blank"><img src="https://img.shields.io/badge/arXiv-2312.00155-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, and Victoria G. Crawford. &quot;**A Threshold Greedy Algorithm for Noisy Submodular Maximization**&quot;. In *arXiv*. -->
 
 
 <!-- ### Manuscript & Submission
@@ -76,7 +79,12 @@ to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 
 ## Professional Experience
 
-* July 2022 - Aug 2023. *Research Intern*. <a href="https://statml.hkust.edu.hk/" target="_blank">Statistics and Machine Learning Research Group, HKUST</a>, Hong Kong SAR.
+* July 2022 - Aug 2023. *Research Intern*. Statistics and Machine Learning Research Group, HKUST, Hong Kong SAR.
+
+## Academic Service
+
+* Conference Reviewer: EMNLP (2024 Demo Track)
+* Journal Reviewer: Journal of Combinatorial Optimization (JOCO)
 
 ## Awards & Honors
 
@@ -86,14 +94,9 @@ to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 * **The 3rd Prize in the 18th "HUAWEI" Cup Post-Graduate Mathematical Contest in Modeling**, Dec.2021
 * **Outstanding Graduation Thesis**, Ningxia University, Jun.2020
 * **Outstanding Graduates**, Ningxia University, Jun. 2020
-* **Honorable Mention in the MCM/ICM**, 2018 & 2019
+<!-- * **Honorable Mention in the MCM/ICM**, 2018 & 2019
 * **National Encouragement Scholarship**, Oct. 2018
-* **First-Class Scholarship**, Ningxia University, 2017, 2018, 2019
-
-## Academic Service
-
-* Conference Reviewer: EMNLP (2024 Demo Track)
-* Journal Reviewer: Journal of Combinatorial Optimization (JOCO)
+* **First-Class Scholarship**, Ningxia University, 2017, 2018, 2019 -->
 
 
 

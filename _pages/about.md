@@ -92,6 +92,7 @@ to Symmetric Riesz Dictionary**&quot;. *Manuscript*.
 
 ## Academic Service
 
+* Conference Reviewer: EMNLP (2024 Demo Track)
 * Journal Reviewer: Journal of Combinatorial Optimization (JOCO)
 
 

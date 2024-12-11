@@ -42,6 +42,8 @@ I am a second-year PhD student at the [TACO Lab](https://taco-group.github.io/) 
 
 <!-- ### Peer-reviewed Conference & Journal -->
 
+<a href="https://arxiv.org/abs/2412.04508" target="_blank"><img src="https://img.shields.io/badge/arXiv-2412.04508-red?style=flat-square"></a> Qi Zheng, Yibo Fan, Leilei Huang, Tianyu Zhu, Jiaming Liu, Zhijian Hao, <u>Shuo Xing</u>, Chia-Ju Chen, Xiongkuo Min, Alan C. Bovik, Zhengzhong Tu. &quot;**Video Quality Assessment: A Comprehensive Survey**&quot;. In *arXiv*.
+
 <a href="https://arxiv.org/abs/2407.04804" target="_blank"><img src="https://img.shields.io/badge/arXiv-2407.04804-red?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, Samson Zhou, and Victoria G. Crawford. &quot;**Fair Submodular Cover**&quot;. In *arXiv*.
 
 <a href="https://aclanthology.org/2024.findings-acl.129/" target="_blank"><img src="https://img.shields.io/badge/ACL-2024-blue?style=flat-square"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao<sup>&diams;</sup>, Wenhe Sun, Xiang Liu, Kashun Shum, Jipeng Zhang, Renjie Pi, and Tong Zhang. &quot;**Plum: Prompt Learning using Metaheuristic**&quot;. In *ACL 2024 Findings*. <a href="https://github.com/research4pan/Plum" target="_blank"><img src="https://img.shields.io/github/stars/research4pan/Plum"></a>

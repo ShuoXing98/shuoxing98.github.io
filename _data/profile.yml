@@ -13,7 +13,7 @@ cv_link: https://drive.google.com/file/d/1-n3fT8eoPpSkRkbLgzDPdsXoBI2EAtRA/view?
 gscholar: HYZvb-YAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: ShuoXing98
 twitter: shuoxing98  # Do not include the '@' symbol
-wechat_qrcode: /assets/images/etc/wechat-qrcode.jpg
+wechat_qrcode: /assets/images/etc/wechat.jpg
 wechat_prompt: >-
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: shuoxing98
@@ -64,7 +64,7 @@ awards:
   date: Oct. 2023
 - name: Outstanding Graduates 
   date: Apr. 2023
-- name: First-Class Scholarship
+- name: First-Class Scholarship (Title Sponsored by HUAWEI)
   date: Oct. 2022
 - name: The 3rd Prize in the 18th "HUAWEI" Cup Post-Graduate Mathematical Contest in Modeling
   date: Dec. 2021

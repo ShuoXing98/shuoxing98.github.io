@@ -1,7 +1,7 @@
 ---
 title:          "OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving"
 date:           2024-12-19 00:07:00 +0800
-selected:       false
+selected:       true
 # pub:            "Findings of the Association for Computational Linguistics (ACL Findings)"
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'

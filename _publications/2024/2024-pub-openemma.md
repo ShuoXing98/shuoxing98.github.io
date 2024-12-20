@@ -1,0 +1,25 @@
+---
+title:          "OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving"
+date:           2024-12-19 00:07:00 +0800
+selected:       false
+# pub:            "Findings of the Association for Computational Linguistics (ACL Findings)"
+# pub_pre:        "Submitted to "
+pub_post:       'Under review.'
+# pub_last:       '<a href="https://github.com/research4pan/Plum" target="_blank"><img src="https://img.shields.io/github/stars/research4pan/Plum"></a>'
+pub_date:       "2024"
+
+abstract: >-
+  Drawing inspiration from recent advancements in inference computing, we propose OpenEMMA, an open-source end-to-end framework based on MLLMs. By incorporating the Chain-of-Thought reasoning process, OpenEMMA achieves significant improvements compared to the baseline when leveraging a diverse range of MLLMs. Furthermore, OpenEMMA demonstrates effectiveness, generalizability, and robustness across a variety of challenging driving scenarios, offering a more efficient and effective approach to autonomous driving.
+cover:          /assets/images/covers/openemma-pipeline.png
+authors:
+  - Shuo Xing
+  - Chengyuan Qian
+  - Yuping Wang
+  - Hongyuan Hua
+  - Kexin Tian
+  - Yang Zhou
+  - Zhengzhong Tu
+links:
+  Paper: https://arxiv.org/abs/2412.15208
+  Code: https://github.com/taco-group/OpenEMMA
+---

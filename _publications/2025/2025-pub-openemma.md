@@ -1,12 +1,12 @@
 ---
 title:          "OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving"
-date:           2024-12-19 00:07:00 +0800
+date:           2024-01-03 23:01:00 +0800
 selected:       true
-# pub:            "Findings of the Association for Computational Linguistics (ACL Findings)"
+pub:            "3rd WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)"
 # pub_pre:        "Submitted to "
-pub_post:       'Under review.'
+# pub_post:       'Under review.'
 pub_last:       '<a href="https://github.com/taco-group/OpenEMMA" target="_blank"><img src="https://img.shields.io/github/stars/taco-group/OpenEMMA"></a>'
-pub_date:       "2024"
+pub_date:       "2025"
 
 abstract: >-
   Drawing inspiration from recent advancements in inference computing, we propose OpenEMMA, an open-source end-to-end framework based on MLLMs. By incorporating the Chain-of-Thought reasoning process, OpenEMMA achieves significant improvements compared to the baseline when leveraging a diverse range of MLLMs. Furthermore, OpenEMMA demonstrates effectiveness, generalizability, and robustness across a variety of challenging driving scenarios, offering a more efficient and effective approach to autonomous driving.

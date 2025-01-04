@@ -1,6 +1,6 @@
 ---
 title:          "OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving"
-date:           2024-01-03 23:01:00 +0800
+date:           2025-01-03 23:01:00 +0800
 selected:       true
 pub:            "3rd WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)"
 # pub_pre:        "Submitted to "

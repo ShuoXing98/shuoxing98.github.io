@@ -5,6 +5,7 @@ selected:       false
 # pub:            "The 3rd WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)"
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'
+pub_last:       '<a href="https://github.com/taco-group/DecAlign" target="_blank"><img src="https://img.shields.io/github/stars/taco-group/DecAlign"></a>'
 pub_date:       "2025"
 
 abstract: >-

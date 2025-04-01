@@ -53,18 +53,7 @@ education:
   position: B.S. in Mathematics
   date: Aug. 2016 - Jun. 2020
 
-experience:
-- name: Hong Kong University of Science and Technology
-  logo: /assets/images/badges/hkust-logo.png
-  position: Research Intern
-  date: Jul. 2022 - Sep. 2023
 
-services:
-- name: Program Chair
-  position: WACVW 2025 Workshop LLVM-AD, CVPR 2025 Workshop WDFM-AD
-
-- name: Conference Organizer
-  position: WACVW, CVPRW, ENMLP Demo, ACL Demo, ICCV
 
 awards:
 - name: Outstanding Graduation Thesis
@@ -84,3 +73,10 @@ awards:
   
 - name: Outstanding Graduates
   date: Jun. 2020
+
+
+experience:
+- name: Hong Kong University of Science and Technology
+  logo: /assets/images/badges/hkust-logo.png
+  position: Research Intern
+  date: Jul. 2022 - Sep. 2023

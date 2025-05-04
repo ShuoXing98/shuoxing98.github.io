@@ -56,11 +56,11 @@ education:
 
 
 awards:
-- name: Outstanding Graduation Thesis
+- name: Outstanding Graduates & Graduation Thesis 
   date: Oct. 2023
 
-- name: Outstanding Graduates 
-  date: Apr. 2023
+# - name: Outstanding Graduates 
+#   date: Apr. 2023
 
 - name: First-Class Scholarship (Title Sponsored by HUAWEI)
   date: Oct. 2022
@@ -68,11 +68,11 @@ awards:
 - name: The 3rd Prize in the 18th "HUAWEI" Cup Post-Graduate Mathematical Contest in Modeling
   date: Dec. 2021
 
-- name: Outstanding Graduation Thesis
+- name: Outstanding Graduates & Graduation Thesis 
   date: Jun. 2020
   
-- name: Outstanding Graduates
-  date: Jun. 2020
+# - name: Outstanding Graduates
+#   date: Jun. 2020
 
 
 experience:

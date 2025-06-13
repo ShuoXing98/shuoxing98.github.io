@@ -76,10 +76,10 @@ awards:
 
 
 experience:
-- name: Robert Bosch LLC
-  logo: /assets/images/badges/robert-bosch-logo.png
-  position: Research Intern
-  date: May. 2025 - Aug. 2025
+# - name: Robert Bosch LLC
+#   logo: /assets/images/badges/robert-bosch-logo.png
+#   position: Research Intern
+#   date: May. 2025 - Aug. 2025
 
 - name: Hong Kong University of Science and Technology
   logo: /assets/images/badges/hkust-logo.png

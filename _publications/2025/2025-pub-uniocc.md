@@ -1,10 +1,10 @@
 ---
 title:          "UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving"
-date:           2025-03-31 23:01:00 +0800
+date:           2025-07-25 23:01:00 +0800
 selected:       false
-# pub:            "The 3rd WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)"
+pub:            "International Conference on Computer Vision (ICCV)"
 # pub_pre:        "Submitted to "
-pub_post:       'Under review.'
+# pub_post:       'Under review.'
 pub_date:       "2025"
 
 abstract: >-

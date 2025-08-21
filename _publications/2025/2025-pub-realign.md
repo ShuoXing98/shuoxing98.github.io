@@ -1,10 +1,10 @@
 ---
 title:          "Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization"
-date:           2025-02-18 23:01:00 +0800
+date:           2025-08-20 23:01:00 +0800
 selected:       true
-# pub:            "The 3rd WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)"
+pub:            "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 # pub_pre:        "Submitted to "
-pub_post:       'Under review.'
+# pub_post:       'Under review.'
 pub_last:       '<a href="https://github.com/taco-group/Re-Align" target="_blank"><img src="https://img.shields.io/github/stars/taco-group/Re-Align"></a>'
 pub_date:       "2025"
 

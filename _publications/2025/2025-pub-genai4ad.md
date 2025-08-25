@@ -4,6 +4,7 @@ date:           2025-05-13 23:01:00 +0800
 selected:       false
 # pub:            "The 3rd WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD)"
 # pub_pre:        "Submitted to "
+pub_last:       '<a href="https://github.com/taco-group/GenAI4AD" target="_blank"><img src="https://img.shields.io/github/stars/taco-group/GenAI4AD"></a>'
 pub_post:       'Under review.'
 pub_date:       "2025"
 

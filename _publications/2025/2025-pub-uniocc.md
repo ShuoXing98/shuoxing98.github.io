@@ -5,6 +5,7 @@ selected:       false
 pub:            "International Conference on Computer Vision (ICCV)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
+pub_last:       '<a href="https://github.com/tasl-lab/UniOcc" target="_blank"><img src="https://img.shields.io/github/stars/tasl-lab/UniOcc"></a>'
 pub_date:       "2025"
 
 abstract: >-

@@ -2,7 +2,7 @@
 title:          "Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization"
 date:           2025-08-20 23:01:00 +0800
 selected:       true
-pub:            "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+pub:            "Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       '<a href="https://github.com/taco-group/Re-Align" target="_blank"><img src="https://img.shields.io/github/stars/taco-group/Re-Align"></a>'

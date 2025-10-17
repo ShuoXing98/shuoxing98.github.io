@@ -81,6 +81,11 @@ experience:
 #   position: Research Intern
 #   date: May. 2025 - Aug. 2025
 
+- name: Google LLC
+  logo: /assets/images/badges/Google_logo.png
+  position: Student Researcher
+  date: Oct. 2025 - Present
+
 - name: Hong Kong University of Science and Technology
   logo: /assets/images/badges/hkust-logo.png
   position: Research Intern

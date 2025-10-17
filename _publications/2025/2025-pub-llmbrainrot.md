@@ -5,7 +5,7 @@ selected:       true
 # pub:            "Findings of the Association for Computational Linguistics (ACL Findings)"
 # pub_pre:        "Submitted to "
 pub_post:       'Under review.'
-# pub_last:       '<a href="https://github.com/taco-group/AutoTrust" target="_blank"><img src="https://img.shields.io/github/stars/taco-group/AutoTrust"></a>'
+pub_last:       '<a href="https://github.com/llm-brain-rot/llm-brain-rot" target="_blank"><img src="https://img.shields.io/github/stars/llm-brain-rot/llm-brain-rot"></a>'
 pub_date:       "2025"
 
 abstract: >-

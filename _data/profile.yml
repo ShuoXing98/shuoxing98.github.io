@@ -5,11 +5,13 @@ navbar_name: "Shuo Xing"
 positions:
 - logo: /assets/images/badges/tamu-logo.png  # Logo is optional
   name: PhD student in Computer Science at Texas A&M University
+- logo: /assets/images/badges/Google_logo.png
+  name: Student Researcher 
 # - name: Position 2 without logo
 
 
 email: "shuoxing@tamu.edu"
-cv_link: https://drive.google.com/file/d/1McCglv7qeo3uDX8FlneY4mPF_Em_40yF/view?usp=drive_link
+cv_link: https://drive.google.com/file/d/19UsVD3V_SemhBaOV4JNrpgI4O210_y1j/view?usp=drive_link
 gscholar: HYZvb-YAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: ShuoXing98
 twitter: shuoxing98  # Do not include the '@' symbol

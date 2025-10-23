@@ -1,6 +1,6 @@
 ---
 title:          "AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving"
-date:           2024-12-19 00:08:00 +0800
+date:           2025-10-10 00:08:00 +0800
 selected:       true
 pub:            "Transactions on Machine Learning Research (TMLR)"
 # pub_pre:        "Submitted to "

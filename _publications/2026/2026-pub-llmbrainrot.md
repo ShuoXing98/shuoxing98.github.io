@@ -2,7 +2,7 @@
 title:          "LLMs Can Get \"Brain Rot\": A Pilot Study on Twitter/X"
 date:           2026-07-08 00:08:00 +0800
 selected:       true
-pinned:         true  # always listed first under Selected Publications
+pinned:         true  # pinned papers are listed first under Selected Publications (newest first)
 pub:            "Conference on Language Modeling (COLM)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

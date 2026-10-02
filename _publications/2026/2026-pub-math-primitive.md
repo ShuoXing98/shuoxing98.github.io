@@ -2,6 +2,7 @@
 title:          "The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models"
 date:           2026-10-02 00:01:00 +0800
 selected:       true
+pinned:         true  # pinned papers are listed first under Selected Publications (newest first)
 pub:            "arXiv preprint"
 pub_date:       "2026"
 

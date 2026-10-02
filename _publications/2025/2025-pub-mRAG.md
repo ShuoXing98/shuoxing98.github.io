@@ -15,6 +15,8 @@ authors:
   - Yueqi Wang
   - Shuo Xing
   - Chia-Ju Chen
+  - Suofei Feng
+  - Ryan Rossi
   - Zhengzhong Tu
 links:
   Paper: https://arxiv.org/abs/2505.24073

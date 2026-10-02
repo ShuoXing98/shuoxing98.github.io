@@ -5,10 +5,6 @@ navbar_title: Home
 ---
 {% include widgets/profile_card.html %}
 
-{% include widgets/debug_repo_name.html %}
-
-{% include widgets/debug_url.html %}
-
 {% if site.data.display.homepage.show_experience %}
     {% include widgets/experience_card.html %}
 {% endif %}
@@ -22,6 +18,9 @@ navbar_title: Home
 
 {% if site.data.display.homepage.show_selected_publications %}
     {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+    {% assign pinned_pubs = pubs | where: "pinned", true %}
+    {% assign other_pubs = pubs | where_exp: "item", "item.pinned != true" %}
+    {% assign pubs = pinned_pubs | concat: other_pubs %}
     {% 
         include widgets/publication_card.html 
         publications=pubs

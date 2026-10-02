@@ -12,8 +12,8 @@ abstract: >-
 cover:          /assets/images/covers/map-title-figure.png
 authors:
   - Shuo Xing*
-  - Zezhou Sun*
   - Shuangyu Xie*
+  - Zezhou Sun*
   - Kaiyuan Chen
   - Yanjia Huang
   - Yuping Wang
@@ -22,4 +22,6 @@ authors:
   - Zhengzhong Tu
 links:
   Paper: https://arxiv.org/abs/2503.14607
+  Code: https://github.com/taco-group/MapBench
+  Dataset: https://huggingface.co/datasets/shuoxing/MapBench
 ---

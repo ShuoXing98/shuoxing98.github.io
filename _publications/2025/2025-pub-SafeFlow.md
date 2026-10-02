@@ -11,8 +11,8 @@ abstract: >-
   In this work, we introduce SAFEFLOW, a new protocol-level framework for building trustworthy LLM/VLM-based agents. SAFEFLOW enforces fine-grained information flow control (IFC), precisely tracking provenance, integrity, and confidentiality of all the data exchanged between agents, tools, users, and environments.
 cover:          /assets/images/covers/safeflowagent-overview.png
 authors:
-  - Peiran Li
-  - Xinkai Zou
+  - Peiran Li*
+  - Xinkai Zou*
   - Zhuohang Wu
   - Ruifeng Li
   - Shuo Xing

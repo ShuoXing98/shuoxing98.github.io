@@ -3,18 +3,16 @@
 {%- assign has_corresponding = false -%}
 
 {%- for _key in authors -%}
-    {%- assign last_char = _key | slice: -1, 1%}
-    {%- if last_char == "*" -%}
-        {%- assign key = _key | split: "*" | first -%}
+    {%- comment -%} Markers may be combined, e.g. "Name*#" (equal contribution + corresponding). {%- endcomment -%}
+    {%- assign key = _key | remove: "*" | remove: "#" -%}
+    {%- assign mark = "" -%}
+    {%- if _key contains "*" -%}
         {%- assign mark = "*" -%}
         {%- assign has_eq_contrib = true -%}
-    {%- elsif last_char == "#" -%}
-        {%- assign key = _key | split: "#" | first -%}
-        {%- assign mark = '<sup>#</sup>' -%}
+    {%- endif -%}
+    {%- if _key contains "#" -%}
+        {%- assign mark = mark | append: '<sup>#</sup>' -%}
         {%- assign has_corresponding = true -%}
-    {%- else -%}
-        {%- assign key = _key -%}
-        {%- assign mark = "" -%}
     {%- endif -%}
 
     {%- assign info = site.data.authors[key] -%}

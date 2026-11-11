@@ -7,6 +7,7 @@
                         {% if site.data.profile.portrait_url %}
                         <!-- When the screen is wider than md, float the portrait on the right -->
                         <div class="figure float-right ml-4 mb-4 d-none d-md-block">
+                            <a href="{{ site.data.profile.portrait_link | default: site.data.profile.portrait_url | relative_url }}" target="_blank" rel="noopener noreferrer">
                             <img 
                                 src="{{ site.data.profile.portrait_url | relative_url }}" 
                                 class="figure-img img-fluid img-thumbnail" 
@@ -14,6 +15,7 @@
                                 data-toggle="tooltip" 
                                 data-placement="top" 
                                 title="{{ site.data.profile.portrait_caption }}">
+                            </a>
                         </div>
                         {% endif %}
 
@@ -23,8 +25,8 @@
                             </div>
                             {% if site.data.profile.portrait_url %}
                             <div class="ml-auto d-md-none">
-                                <a target="_blank" href="{{ site.data.profile.portrait_url | relative_url }}">
-                                    <img src="{{ site.data.profile.portrait_url | relative_url }}" class="rounded-circle" style="height: 48px;" alt="Portrait">
+                                <a target="_blank" rel="noopener noreferrer" href="{{ site.data.profile.portrait_link | default: site.data.profile.portrait_url | relative_url }}">
+                                    <img src="{{ site.data.profile.portrait_url | relative_url }}" class="rounded-circle" style="height: 48px;" alt="Portrait" title="{{ site.data.profile.portrait_caption }}">
                                 </a>
                             </div>
                             {% endif %}
